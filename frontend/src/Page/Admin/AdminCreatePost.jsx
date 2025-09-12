@@ -1,6 +1,6 @@
 import React from 'react'
 
-const AdminEditPost = () => {
+const AdminCreatePost = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const AdminEditPost = () => {
   )
 }
 
-export default AdminEditPost
+export default AdminCreatePost
